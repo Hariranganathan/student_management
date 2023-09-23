@@ -40,13 +40,15 @@ used to check whether the specific parameter name is existing or not, if existin
 
 ScreenShots :
 
-![Screenshot (14)](https://github.com/Hariranganathan/student_management/assets/132760910/650cb501-47cc-44a9-913d-7c5cd5082df9)
-![Screenshot (15)](https://github.com/Hariranganathan/student_management/assets/132760910/b7eb3faf-dd1d-478e-bb3a-8218a4d243bc)
-![Screenshot (16)](https://github.com/Hariranganathan/student_management/assets/132760910/b1b27760-4dea-4d3e-b757-c18a8995eb6a)
-![Screenshot 2023-09-19 191907](https://github.com/Hariranganathan/student_management/assets/132760910/e432809f-15d6-4155-b442-21553e4a8b72)
-![Screenshot 2023-09-19 192000](https://github.com/Hariranganathan/student_management/assets/132760910/31dbe1c5-40a2-461f-8ab1-d9172c19ac09)
-![Screenshot (17)](https://github.com/Hariranganathan/student_management/assets/132760910/b4e028b3-9340-44c0-a4e0-e9e0dd26f60b)
+   
+![Screenshot 2023-09-20 083228](https://github.com/Hariranganathan/student_management/assets/132760910/e8c196f1-4e57-4f3d-838f-17c708da3f3c)
 
+![Screenshot 2023-09-20 083325](https://github.com/Hariranganathan/student_management/assets/132760910/fbdfdfc1-1363-4e0a-8f39-c0a21417222b)
 
+![Screenshot (24)](https://github.com/Hariranganathan/student_management/assets/132760910/50852c8f-f1d9-4550-97df-e2efc327a31d)
 
- 
+![Screenshot (21)](https://github.com/Hariranganathan/student_management/assets/132760910/56dc1a7b-3e22-49a5-bd92-5a0f94e37cc7)
+
+![Screenshot (23)](https://github.com/Hariranganathan/student_management/assets/132760910/e2a4f51d-b6c9-4cde-a3dd-f7897f66a1e6)
+
+![Screenshot (22)](https://github.com/Hariranganathan/student_management/assets/132760910/8453d1ed-d147-4b4e-97b9-a3ee954169da)
