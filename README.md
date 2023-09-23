@@ -14,34 +14,33 @@
 
 # API's Created :
 
-/grooming (signup) 
+## /grooming (signup) 
 
 used to create a new user account in DB
 
-/login 
+## /login 
 
 used to check whether the respective user credentials is existing in the database or not
 
-/dashboard 
+## /dashboard 
 
 fetch all the student details 
 
-/createStudent 
+## /createStudent 
 
 to create a new Student data in DB
 
-/updateStudent/:name 
+## /updateStudent/:student_id
 
 used to check whether the specific parameter name is existing or not, if existing this will allow you to modify the specified stident deatils 
 
-/deletestudent/:name 
+## /delete/:student_id
 
 used to check whether the specific parameter name is existing or not, if existing this will allow you to delete the specified student from the table in DB
 
-ScreenShots :
-
+## ScreenShots 
    
-![Screenshot 2023-09-20 083228](https://github.com/Hariranganathan/student_management/assets/132760910/e8c196f1-4e57-4f3d-838f-17c708da3f3c)
+![Screenshot 2023-09-23 130218](https://github.com/Hariranganathan/student_management/assets/132760910/05146f7f-a342-40c1-8939-7f9f58bfa04a)
 
 ![Screenshot 2023-09-20 083325](https://github.com/Hariranganathan/student_management/assets/132760910/fbdfdfc1-1363-4e0a-8f39-c0a21417222b)
 
